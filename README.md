@@ -32,3 +32,13 @@ El objetivo inicial es:
 Video demostrando la detección de objetos:
 
 [![Demo Object Detection](/assets/annotated.mp4)](/assets/annotated.mp4)
+
+## Herramientas a utilizar
+
+- Ultralytics: Proporciona acceso al modelo YOLOv8 y facilita el hacer fine tuning
+- Roboflow: Para facilitar el etiquetado con el que vamos a hacer fine tuning
+- Supervision: Librería para python que facilita el agregar anotaciones a los frames para mostrar cada objeto detectado por el modelo, tiene integración con Ultralytics
+- OpenCV: Usada por supervision para etiquetado y ofrece facilidades para interactuar con cámaras
+- Unreal Engine: Generación de simulaciones para usar como entrada de datos (los frames) al modelo
+- AgentPy: Biblioteca de Python para trabajar con Modelación Basado en Agentes (ABM). Útil para implementar Sistemas Multi-Agentes (MAS).
+- Sockets: para comunicar Cliente (Unreal Engine) y Servidor (AgentPy)
