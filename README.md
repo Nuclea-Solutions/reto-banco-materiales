@@ -29,3 +29,6 @@ El objetivo inicial es:
 - A partir de los registros obtenidos, llevar a cabo la toma de decisiones como:
     - Mandar alerta cuando se detecta el cambio de estado de un camión
 
+Video demostrando la detección de objetos:
+
+[![Demo Object Detection](/assets/annotated.mp4)](/assets/annotated.mp4)
