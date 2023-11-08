@@ -1,2 +1,6 @@
 /output/*
 !/output/.gitkeep
+/datasets/*
+!/datasets/.gitkeep
+.env*
+!.env.example
