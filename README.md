@@ -45,7 +45,7 @@ Video demostrando la detección de objetos:
 
 ## Instalacion
 
-Se recomienda tener lo siguiente instalado antes de correr los ejemplos:
+Se recomienda tener lo siguiente instalado antes de correr los ejemplos si se piensa correr en local:
 
 - git-lfs
 - python: 3.11.0
@@ -63,4 +63,8 @@ Antes de correr los ejemplos, necesitamos instalar las dependencias del proyecto
 pip install -r requirements.txt
 ```
 
-El proyecto ya cuenta con algunos [ejemplos](/examples/)
+El proyecto ya cuenta con algunos [ejemplos](/examples/) que son:
+
+Titulo | Visual Studio Code | Google Colab | Descripcion
+--------|-----------|------------|----------
+Introduccion | [Introduccion](/examples/introduction.ipynb) | [Introduccion](https://colab.research.google.com/drive/1omeyCRGkCGpKhKsX5HgN_aRbvT06wpyB#scrollTo=2XJO1qTdn_g_) | Como usar un modelo (yolov8n) para detectar objetos a partir de una imagen
