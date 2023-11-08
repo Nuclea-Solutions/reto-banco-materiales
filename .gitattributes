@@ -1,1 +1,2 @@
-assets/annotated.mp4 filter=lfs diff=lfs merge=lfs -text
+weights/yolov8/yolov8n.pt filter=lfs diff=lfs merge=lfs -text
+assets/dog.jpeg filter=lfs diff=lfs merge=lfs -text

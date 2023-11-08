@@ -42,3 +42,25 @@ Video demostrando la detección de objetos:
 - Unreal Engine: Generación de simulaciones para usar como entrada de datos (los frames) al modelo
 - AgentPy: Biblioteca de Python para trabajar con Modelación Basado en Agentes (ABM). Útil para implementar Sistemas Multi-Agentes (MAS).
 - Sockets: para comunicar Cliente (Unreal Engine) y Servidor (AgentPy)
+
+## Instalacion
+
+Se recomienda tener lo siguiente instalado antes de correr los ejemplos:
+
+- git-lfs
+- python: 3.11.0
+- pip: 22.3
+
+Por facilidad para cambiar entre version de python (en caso de que lo utilicen para
+otras materias o proyectos personales), tambien se recomienda instalar pyenv para
+manejar las diferentes versiones.
+
+## Ejemplos
+
+Antes de correr los ejemplos, necesitamos instalar las dependencias del proyecto:
+
+```sh
+pip install -r requirements.txt
+```
+
+El proyecto ya cuenta con algunos [ejemplos](/examples/)
