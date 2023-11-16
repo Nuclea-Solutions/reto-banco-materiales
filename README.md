@@ -1,12 +1,16 @@
 # Reto Banco Materiales
 
+<a href="https://universe.roboflow.com/materialsbank/dump-truck-detection">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
+
 Actualmente existe un banco de materiales (terreno con materiales para construcción) que se encuentra
 en un lugar remoto por lo que la seguridad deja que desear y muchas veces esto lleva a que se roben
 materiales del lugar.
 
 ## Problema a resolver
 
-Lo que se busca es poder monitorear el lugar mediante cámaras, procesar la información de las cámaras
+Lo que se busca es poder monitorear el lugar mediante cámaras, procesar la información de estas cámaras
 y empezar con la toma de decisiones.
 
 Diferentes consideraciones que se deben tomar en cuenta:
