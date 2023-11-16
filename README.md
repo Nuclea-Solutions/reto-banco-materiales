@@ -72,5 +72,5 @@ El proyecto ya cuenta con algunos [ejemplos](/examples/) que son:
 Titulo | Visual Studio Code | Google Colab | Descripcion
 --------|-----------|------------|----------
 Introduccion | [Introduccion](/examples/introduction.ipynb) | [Introduccion](https://colab.research.google.com/drive/1omeyCRGkCGpKhKsX5HgN_aRbvT06wpyB#scrollTo=2XJO1qTdn_g_) | Como usar un modelo (yolov8n) para detectar objetos a partir de una imagen
-Deteccion con video | [Detection With Video](/examples/detection-with-video.ipynb) | [Detection With Video](/) | Como usar un modelo (modelo con fine tunning) para detectar camiones con y sin materiales a partir de un video
+Deteccion con video | [Detection With Video](/examples/detection-with-video.ipynb) | [Detection With Video](https://colab.research.google.com/drive/1coVmcNySuiA8B1j2I850zH1qw7wdcY6p) | Como usar un modelo (modelo con fine tunning) para detectar camiones con y sin materiales a partir de un video
 Fine Tuning | [Fine Tuning](/examples/fine-tuning.ipynb) | [Fine Tuning](/) | Como hacerle fine tuning al modelo de YOLO
